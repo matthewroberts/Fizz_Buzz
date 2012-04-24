@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="A03FE3A2-AA2B-4340-B08C-4603E1FE956A" ModuleId="Interview.Console" />
+  <Module PersistentId="C1554430-9C62-4F42-BFFB-11ABD496A2D9" ModuleId="Interview.Core" />
+  <Module PersistentId="098B3B4F-A7C2-4D1D-8A52-454AF98F4CE0" ModuleId="Interview.Test" />
+  <Module PersistentId="EEB1FD47-6F9D-4F49-A7B3-D1455A3AB30E" ModuleId="Interview.ConsoleUI" />
+</Modules>

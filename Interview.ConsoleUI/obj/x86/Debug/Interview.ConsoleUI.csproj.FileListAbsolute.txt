@@ -1,0 +1,7 @@
+c:\users\mroberts.dwh\documents\visual studio 2010\Projects\Interview.Console\Interview.ConsoleUI\bin\Debug\Interview.ConsoleUI.exe
+c:\users\mroberts.dwh\documents\visual studio 2010\Projects\Interview.Console\Interview.ConsoleUI\bin\Debug\Interview.ConsoleUI.pdb
+c:\users\mroberts.dwh\documents\visual studio 2010\Projects\Interview.Console\Interview.ConsoleUI\bin\Debug\Interview.Core.dll
+c:\users\mroberts.dwh\documents\visual studio 2010\Projects\Interview.Console\Interview.ConsoleUI\bin\Debug\Interview.Core.pdb
+c:\users\mroberts.dwh\documents\visual studio 2010\Projects\Interview.Console\Interview.ConsoleUI\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mroberts.dwh\documents\visual studio 2010\Projects\Interview.Console\Interview.ConsoleUI\obj\x86\Debug\Interview.ConsoleUI.exe
+c:\users\mroberts.dwh\documents\visual studio 2010\Projects\Interview.Console\Interview.ConsoleUI\obj\x86\Debug\Interview.ConsoleUI.pdb

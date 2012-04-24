@@ -1,0 +1,45 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="C1554430-9C62-4F42-BFFB-11ABD496A2D9/d:Common/d:Helpers/f:Extensions.cs" caret="23" fromTop="0" />
+    <File id="C1554430-9C62-4F42-BFFB-11ABD496A2D9/d:Domain/d:Interfaces/f:IFizzBuzzService.cs" caret="19" fromTop="0" />
+    <File id="C1554430-9C62-4F42-BFFB-11ABD496A2D9/d:Domain/d:Interfaces/f:IPrinterService.cs" caret="13" fromTop="0" />
+    <File id="C1554430-9C62-4F42-BFFB-11ABD496A2D9/d:Common/d:DI/f:DI.cs" caret="0" fromTop="0" />
+    <File id="C1554430-9C62-4F42-BFFB-11ABD496A2D9/d:Domain/d:Services/f:FizzBuzzService.cs" caret="0" fromTop="0" />
+    <File id="C1554430-9C62-4F42-BFFB-11ABD496A2D9/d:Domain/d:Services/f:PrinterService.cs" caret="0" fromTop="0" />
+    <File id="098B3B4F-A7C2-4D1D-8A52-454AF98F4CE0/f:PrinterServiceTest.cs" caret="130" fromTop="5" />
+    <File id="EEB1FD47-6F9D-4F49-A7B3-D1455A3AB30E/f:Program.cs" caret="386" fromTop="13" />
+    <File id="098B3B4F-A7C2-4D1D-8A52-454AF98F4CE0/f:FizzBuzzTests.cs" caret="541" fromTop="20" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="098B3B4F-A7C2-4D1D-8A52-454AF98F4CE0/f:PrinterServiceTest.cs" caret="254" fromTop="12" />
+    <File id="098B3B4F-A7C2-4D1D-8A52-454AF98F4CE0/f:FizzBuzzTests.cs" caret="2383" fromTop="39" />
+    <File id="098B3B4F-A7C2-4D1D-8A52-454AF98F4CE0/f:FizzBuzzTests.cs" caret="2383" fromTop="36" />
+    <File id="C1554430-9C62-4F42-BFFB-11ABD496A2D9/d:Common/d:Helpers/f:Extensions.cs" caret="222" fromTop="12" />
+    <File id="C1554430-9C62-4F42-BFFB-11ABD496A2D9/d:Domain/d:Interfaces/f:IPrinterService.cs" caret="124" fromTop="9" />
+    <File id="C1554430-9C62-4F42-BFFB-11ABD496A2D9/d:Domain/d:Services/f:PrinterService.cs" caret="176" fromTop="10" />
+    <File id="C1554430-9C62-4F42-BFFB-11ABD496A2D9/d:Domain/d:Services/f:FizzBuzzService.cs" caret="380" fromTop="13" />
+    <File id="C1554430-9C62-4F42-BFFB-11ABD496A2D9/d:Domain/d:Services/f:FizzBuzzService.cs" caret="826" fromTop="30" />
+    <File id="C1554430-9C62-4F42-BFFB-11ABD496A2D9/d:Domain/d:Services/f:FizzBuzzService.cs" caret="375" fromTop="11" />
+    <File id="098B3B4F-A7C2-4D1D-8A52-454AF98F4CE0/f:PrinterServiceTest.cs" caret="0" fromTop="0" />
+    <File id="098B3B4F-A7C2-4D1D-8A52-454AF98F4CE0/f:FizzBuzzTests.cs" caret="0" fromTop="0" />
+    <File id="C1554430-9C62-4F42-BFFB-11ABD496A2D9/d:Common/d:DI/f:DI.cs" caret="275" fromTop="13" />
+    <File id="C1554430-9C62-4F42-BFFB-11ABD496A2D9/d:Common/d:DI/f:DI.cs" caret="262" fromTop="13" />
+    <File id="C1554430-9C62-4F42-BFFB-11ABD496A2D9/d:Common/d:DI/f:DI.cs" caret="101" fromTop="3" />
+    <File id="C1554430-9C62-4F42-BFFB-11ABD496A2D9/d:Common/d:Helpers/f:Extensions.cs" caret="23" fromTop="0" />
+    <File id="C1554430-9C62-4F42-BFFB-11ABD496A2D9/d:Domain/d:Interfaces/f:IFizzBuzzService.cs" caret="19" fromTop="0" />
+    <File id="C1554430-9C62-4F42-BFFB-11ABD496A2D9/d:Domain/d:Interfaces/f:IPrinterService.cs" caret="13" fromTop="0" />
+    <File id="C1554430-9C62-4F42-BFFB-11ABD496A2D9/d:Domain/d:Services/f:FizzBuzzService.cs" caret="104" fromTop="3" />
+    <File id="C1554430-9C62-4F42-BFFB-11ABD496A2D9/d:Domain/d:Services/f:PrinterService.cs" caret="77" fromTop="3" />
+    <File id="EEB1FD47-6F9D-4F49-A7B3-D1455A3AB30E/f:Program.cs" caret="13" fromTop="0" />
+    <File id="EEB1FD47-6F9D-4F49-A7B3-D1455A3AB30E/f:Program.cs" caret="386" fromTop="13" />
+    <File id="098B3B4F-A7C2-4D1D-8A52-454AF98F4CE0/f:FizzBuzzTests.cs" caret="739" fromTop="14" />
+    <File id="098B3B4F-A7C2-4D1D-8A52-454AF98F4CE0/f:FizzBuzzTests.cs" caret="1099" fromTop="21" />
+    <File id="098B3B4F-A7C2-4D1D-8A52-454AF98F4CE0/f:FizzBuzzTests.cs" caret="1462" fromTop="31" />
+    <File id="098B3B4F-A7C2-4D1D-8A52-454AF98F4CE0/f:FizzBuzzTests.cs" caret="1833" fromTop="41" />
+    <File id="098B3B4F-A7C2-4D1D-8A52-454AF98F4CE0/f:FizzBuzzTests.cs" caret="2383" fromTop="32" />
+    <File id="098B3B4F-A7C2-4D1D-8A52-454AF98F4CE0/f:PrinterServiceTest.cs" caret="130" fromTop="5" />
+    <File id="098B3B4F-A7C2-4D1D-8A52-454AF98F4CE0/f:FizzBuzzTests.cs" caret="2383" fromTop="27" />
+    <File id="098B3B4F-A7C2-4D1D-8A52-454AF98F4CE0/f:FizzBuzzTests.cs" caret="228" fromTop="9" />
+    <File id="098B3B4F-A7C2-4D1D-8A52-454AF98F4CE0/f:FizzBuzzTests.cs" caret="541" fromTop="20" />
+  </RecentEdits>
+</RecentFiles>

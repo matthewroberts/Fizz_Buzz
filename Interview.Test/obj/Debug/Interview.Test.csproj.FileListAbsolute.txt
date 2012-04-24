@@ -1,0 +1,9 @@
+c:\users\mroberts.dwh\documents\visual studio 2010\Projects\Interview.Console\Interview.Test\bin\Debug\Interview.Test.dll
+c:\users\mroberts.dwh\documents\visual studio 2010\Projects\Interview.Console\Interview.Test\bin\Debug\Interview.Test.pdb
+c:\users\mroberts.dwh\documents\visual studio 2010\Projects\Interview.Console\Interview.Test\obj\Debug\ResolveAssemblyReference.cache
+c:\users\mroberts.dwh\documents\visual studio 2010\Projects\Interview.Console\Interview.Test\obj\Debug\Interview.Test.dll
+c:\users\mroberts.dwh\documents\visual studio 2010\Projects\Interview.Console\Interview.Test\obj\Debug\Interview.Test.pdb
+C:\Users\mroberts.DWH\Documents\Visual Studio 2010\Projects\Interview.Console\Interview.Test\bin\Debug\Interview.Core.dll
+C:\Users\mroberts.DWH\Documents\Visual Studio 2010\Projects\Interview.Console\Interview.Test\bin\Debug\nunit.framework.dll
+C:\Users\mroberts.DWH\Documents\Visual Studio 2010\Projects\Interview.Console\Interview.Test\bin\Debug\Interview.Core.pdb
+C:\Users\mroberts.DWH\Documents\Visual Studio 2010\Projects\Interview.Console\Interview.Test\bin\Debug\nunit.framework.xml
