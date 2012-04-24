@@ -3,3 +3,8 @@ c:\users\mroberts.dwh\documents\visual studio 2010\Projects\Interview.Console\In
 c:\users\mroberts.dwh\documents\visual studio 2010\Projects\Interview.Console\Interview.Core\obj\Debug\ResolveAssemblyReference.cache
 c:\users\mroberts.dwh\documents\visual studio 2010\Projects\Interview.Console\Interview.Core\obj\Debug\Interview.Core.dll
 c:\users\mroberts.dwh\documents\visual studio 2010\Projects\Interview.Console\Interview.Core\obj\Debug\Interview.Core.pdb
+C:\_projects\FB\Interview.Core\bin\Debug\Interview.Core.dll
+C:\_projects\FB\Interview.Core\bin\Debug\Interview.Core.pdb
+C:\_projects\FB\Interview.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\_projects\FB\Interview.Core\obj\Debug\Interview.Core.dll
+C:\_projects\FB\Interview.Core\obj\Debug\Interview.Core.pdb

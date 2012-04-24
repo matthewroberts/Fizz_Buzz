@@ -65,6 +65,7 @@ namespace Interview.Test
             Assert.That(33.IsDivisibleBy(3), Is.True);
             Assert.That(55.IsDivisibleBy(5), Is.True);
 
+            Assert.That(20.IsDivisibleBy(0), Is.False);
         }
 
         [Test]
